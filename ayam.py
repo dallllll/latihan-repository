@@ -1,0 +1,1 @@
+print("hallo asrop ini namaku ayam")
